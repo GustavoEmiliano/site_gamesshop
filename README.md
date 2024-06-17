@@ -9,8 +9,11 @@ Bem-vindo ao repositório do projeto **Games Shop**! Este projeto é uma página
 <br><br>
 </div>
 
+<div align="center">
+    <img align="center" alt="React" height="450" width="700" src="https://github.com/GustavoEmiliano/site_gamesshop/blob/main/images/servidor-estatico-tan.vercel.app_games_shop.png" alt="EBAC Logo"><br><br>
+</div>
 
-## Descrição
+## :bookmark_tabs: Descrição
 
 A **Games Shop** é uma página web simples que simula uma loja fictícia de jogos online. O objetivo deste projeto é aplicar e demonstrar os conhecimentos adquiridos de HTML e CSS no módulo de Desenvolvimento Web do curso.
 
@@ -19,7 +22,11 @@ A **Games Shop** é uma página web simples que simula uma loja fictícia de jog
 - **HTML5**: Estrutura da página e conteúdo semântico
 - **CSS3**: Estilização e layout da página
 
-## Instalação
+ ## :computer: Deploy 
+
+ **Link**: https://site-gamesshop-git-main-gustavo-emilianos-projects.vercel.app/
+
+## :open_file_folder: Instalação 
 
 Siga estas etapas a seguir para configurar o ambiente de desenvolvimento:
 
@@ -28,7 +35,7 @@ Siga estas etapas a seguir para configurar o ambiente de desenvolvimento:
 3. Instale a extensão Live Server no VSCode. (https://github.com/ritwickdey/vscode-live-server-plus-plus)
 4. Clique em Go Live no canto inferior direito do VSCode para executar o projeto no browser.
 
-## Contribuições
+## :wrench: Contribuições 
 
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
