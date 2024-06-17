@@ -1,7 +1,13 @@
+<div align="center">
+    <img align="center" alt="React" height="100" width="100" src="https://github.com/GustavoEmiliano/site_gamesshop/blob/main/images/Logo-EBAC.png" alt="EBAC Logo"><br><br>
+</div>
+
 # Games Shop
 
+<div>
 Bem-vindo ao repositório do projeto **Games Shop**! Este projeto é uma página web desenvolvida para praticar os conceitos de HTML e CSS aprendidos no curso **Full Stack Python da EBAC - Escola Britânica de Artes Criativas e Tecnologia.**.
-
+<br><br>
+</div>
 
 ## Descrição
 
@@ -12,7 +18,7 @@ A **Games Shop** é uma página web simples que simula uma loja fictícia de jog
 - **HTML5**: Estrutura da página e conteúdo semântico
 - **CSS3**: Estilização e layout da página
 
-### Instalação
+## Instalação
 
 Siga estas etapas a seguir para configurar o ambiente de desenvolvimento:
 
