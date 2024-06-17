@@ -9,6 +9,7 @@ Bem-vindo ao repositório do projeto **Games Shop**! Este projeto é uma página
 <br><br>
 </div>
 
+
 ## Descrição
 
 A **Games Shop** é uma página web simples que simula uma loja fictícia de jogos online. O objetivo deste projeto é aplicar e demonstrar os conhecimentos adquiridos de HTML e CSS no módulo de Desenvolvimento Web do curso.
